@@ -1,2 +1,2 @@
 # codechef
-Every week contest question will be added in this repo
+Every week solved contest question will be added in this repo
